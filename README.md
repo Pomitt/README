@@ -9,7 +9,7 @@
 
 - Fun fact **I Think I'm Cute.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: bug.ne on discord.</h3>
 <p align="left">
 </p>
 
